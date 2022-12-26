@@ -47,3 +47,5 @@ print('\n')
 #for iterations
 for book_attribute, book_value in books.items():
     print('ATTRIBUTE:',book_attribute, 'VALUE:', book_value)
+
+print('DIFFERENCE:', set(books).difference(set(books)))
