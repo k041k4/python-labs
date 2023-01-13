@@ -1,0 +1,12 @@
+﻿REQUIREMENTS,Evernote,Milanote
+Topic levels (encapsulation of topis),Only 2 levels: Notebook stack / Notebook / Note,Unlimited: Board + Columns
+Search across all items,Yes,Yes
+TAGS (cross topis grouping),Unlimited,"N/A, planned for next versions"
+"Snippets (structured, reusable text inside topic)","Templates only, not variable based",N/A
+Interactive Mind Map (Brainstorming) - Research,N/A,Yes
+Picture (map with hot spots),N/A,N/A
+Export,"Yes, Web page and word docs"," Yes, doc and picture"
+Web publishing ,Only Share ,Share and iFrame (embeded)
+Stand alone Web Site,N/A,N/A
+map of content (optionally),N/A,N/A
+Taxonomy base (optionally),N/A,N/A
