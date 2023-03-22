@@ -9,7 +9,6 @@ colorlog = "*"
 uuid = "*"
 argparse = "*"
 build = "*"
-get-new-id = {path = "./packa-test/dist/get_new_id-0.1.4.tar.gz"}
 
 [dev-packages]
 

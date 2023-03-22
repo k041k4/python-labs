@@ -1,3 +1,3 @@
-import 'get-new-id'
+from getnewid import getnewid, default_start
 
-response = get_new_id("BA")
+print(getnewid.new_uuid("BA"))
