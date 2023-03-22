@@ -3,7 +3,7 @@ requires = ["flit_core >=3.2,<4"]
 build-backend = "flit_core.buildapi"
 
 [project]
-name = "get_new_id"
+name = "getnewid"
 authors = [{name = "Vladimir Baranek", email = "k041k4@gmail.com"}]
 version = "0.1.4"
 description = "Generate new ID as UUID"
