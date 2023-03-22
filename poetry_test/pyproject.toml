@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "poetry-test"
+version = "0.1.0"
+description = "Just a test"
+authors = ["Vladimir Baranek <67756420+vbaranek@users.noreply.github.com>"]
+readme = "README.md"
+packages = [{include = "poetry_test"}]
+
+[tool.poetry.dependencies]
+python = "^3.9"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
