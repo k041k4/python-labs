@@ -1,1 +1,1 @@
-from defaultstart import logger
+from .defaultstart import logger

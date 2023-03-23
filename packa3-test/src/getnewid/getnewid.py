@@ -22,7 +22,7 @@ import uuid
 import argparse
 
 #from defaultstart import logger
-from defaultstart import defaultstart
+import defaultstart
 logger = defaultstart.logger()
 
 # Get new source ID(s)
