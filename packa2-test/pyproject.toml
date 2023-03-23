@@ -3,10 +3,10 @@ requires = ["flit_core >=3.2,<4"]
 build-backend = "flit_core.buildapi"
 
 [project]
-name = "default_start"
+name = "defaultstart"
 authors = [{name = "Vladimir Baranek", email = "k041k4@gmail.com"}]
 version = "0.1.4"
-description = "Default STart for all modules"
+description = "Default Start for all modules"
 readme = "README.md"
 requires-python = ">=3.7"
 license = {file = "LICENSE"}

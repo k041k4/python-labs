@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "6847bddb328aace895fb03716c957648f0cbf1b565d5252b126df637b19e044b"
+            "sha256": "6a1af4d63e4c373b9c8b654bb9abf77b35fd6195b38a74c323bd28dfc8053cd3"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -470,13 +470,6 @@
             ],
             "markers": "python_version >= '3.5'",
             "version": "==5.1.1"
-        },
-        "default-start": {
-            "hashes": [
-                "sha256:d984d7816ebdbeddd4213d7f026af698e62574677287652f73ba36b5aa74bb98"
-            ],
-            "path": "./packa2-test/dist/default_start-0.1.4.tar.gz",
-            "version": "==0.1.4"
         },
         "defusedxml": {
             "hashes": [

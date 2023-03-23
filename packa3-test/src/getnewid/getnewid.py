@@ -21,7 +21,7 @@ Parameters
 import uuid
 import argparse
 
-from default_start import logger
+from defaultstart import logger
 
 # Get new source ID(s)
 def new_uuid(source, count=1, platform = False, version = False):
