@@ -1,4 +1,4 @@
-import default_start
-from getnewid import getnewid
+import defaultstart
+
 
 print(getnewid.new_uuid("BA"))
