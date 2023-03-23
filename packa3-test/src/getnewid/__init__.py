@@ -1,1 +1,1 @@
-from getnewid import getnewid
+from . import getnewid
