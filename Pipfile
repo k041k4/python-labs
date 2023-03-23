@@ -9,7 +9,7 @@ colorlog = "*"
 uuid = "*"
 argparse = "*"
 build = "*"
-defaultstart = {path = "./packa2-test/dist/defaultstart-0.1.4.tar.gz"}
+defaultstart = {path = "./packa2-test"}
 
 [dev-packages]
 

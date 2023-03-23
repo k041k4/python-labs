@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "11bbbc12c0868a77ce31472b7fb3b25afe1744835436c01b2ee9ec4ebeda186c"
+            "sha256": "ee85e175f43c83fa0569fee2f012d88024533935732327b659b83fdf6ffcc1c9"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -472,10 +472,7 @@
             "version": "==5.1.1"
         },
         "defaultstart": {
-            "hashes": [
-                "sha256:dd1b914f9649c401c1a6d2ec8078a5b90688bbd88f3425567a453f80f857b9fe"
-            ],
-            "path": "./packa2-test/dist/defaultstart-0.1.4.tar.gz",
+            "path": "./packa2-test",
             "version": "==0.1.4"
         },
         "defusedxml": {
