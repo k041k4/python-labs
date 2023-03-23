@@ -9,6 +9,8 @@ colorlog = "*"
 uuid = "*"
 argparse = "*"
 build = "*"
+default-start = {path = "./packa2-test/dist/default_start-0.1.4.tar.gz"}
+getnewid = {path = "./packa3-test/dist/getnewid-0.1.4.tar.gz"}
 
 [dev-packages]
 
