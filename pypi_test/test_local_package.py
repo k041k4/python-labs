@@ -1,3 +1,3 @@
-from getnewid import getnewid
+import getnewid
 
 print(getnewid.new_uuid("BA"))

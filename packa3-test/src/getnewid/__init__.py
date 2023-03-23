@@ -1,0 +1,1 @@
+from .getnewid import new_uuid
