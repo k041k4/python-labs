@@ -9,8 +9,8 @@ colorlog = "*"
 uuid = "*"
 argparse = "*"
 build = "*"
-getnewid = {path = "./packa3-test"}
 defaultstart = {path = "./packa2-test"}
+getnewid = {path = "./packa3-test"}
 
 [dev-packages]
 
