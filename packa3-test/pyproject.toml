@@ -16,5 +16,11 @@ classifiers = [
     "Operating System :: OS Independent",
 ]
 
+dependencies = [
+  "default_start",
+  "uuid",
+  "argparse"
+]
+
 [project.urls]
 Home = "https://github.com/k041k4/python-labs/"
