@@ -17,7 +17,7 @@ import logging.config
 from colorlog import ColoredFormatter
 
 #Logging
-def logger():
+def logger(logger_stream = "platform"):
     LOG_LEVEL = logging.DEBUG
     LOG_FORMAT = "%(log_color)s%(levelname)-8s%(reset)s %(asctime)s %(log_color)s%(message)s%(reset)s"
     LOG_DATE_FORMAT = '%H:%M:%S'
@@ -30,7 +30,8 @@ def logger():
     logging.getLogger('botocore').setLevel(logging.CRITICAL)
     logging.getLogger('s3transfer').setLevel(logging.CRITICAL)
     logging.getLogger('urllib3').setLevel(logging.CRITICAL)
-    logger = logging.getLogger()
+    logger = logging.getLogger(logger_stream)
     logger.setLevel(LOG_LEVEL)
     logger.addHandler(stream)
+    logger.propagate = False
     return logger

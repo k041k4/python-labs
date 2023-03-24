@@ -23,7 +23,7 @@ import argparse
 
 #from defaultstart import logger
 import defaultstart
-logger = defaultstart.logger()
+logger = defaultstart.logger("utils")
 
 # Get new source ID(s)
 class GetNewId:
