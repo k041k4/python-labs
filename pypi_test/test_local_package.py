@@ -1,3 +1,3 @@
-import getnewid
+import defaultstart
 
-print(getnewid.new_uuid("BA"))
+logger = defaultstart.logger()
