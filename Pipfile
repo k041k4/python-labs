@@ -11,6 +11,7 @@ argparse = "*"
 build = "*"
 getnewid = {path = "./packa3-test"}
 defaultstart = {path = "./packa2-test"}
+django = "*"
 
 [dev-packages]
 
